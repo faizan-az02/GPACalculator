@@ -27,7 +27,7 @@ The tool handles the math so you can focus on stressing about the result.
 
 ---
 
-## ▶How to Run
+## How to Run
 
 Make sure Python is installed (if not, we need to talk).
 
