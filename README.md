@@ -1,4 +1,4 @@
-# GPA Calculator (Python CLI Tool)
+# GPA Calculator
 
 Because calculating your GPA by hand is a form of unnecessary suffering.
 
